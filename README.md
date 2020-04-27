@@ -5,6 +5,8 @@
 ## What?
 This repo exist in order to follow meme forking trend on [reddit](https://www.reddit.com/r/ProgrammerHumor) but in a proper way
 
+Latest deployed version [here](https://linegel.github.io/forked-meme/) https://linegel.github.io/forked-meme/
+
 ![Artwork made by u/nnod](/nnod.png)
 
 ## I want my changes to be merged in! How?
