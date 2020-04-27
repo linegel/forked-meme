@@ -27,6 +27,7 @@ Note: before merge I will ask @all-contributors to add you to contributors list 
   <tr>
     <td align="center"><a href="https://github.com/winnie334"><img src="https://avatars0.githubusercontent.com/u/24432799?v=4" width="100px;" alt=""/><br /><sub><b>Winnie33</b></sub></a><br /><a href="https://github.com/linegel/forked-meme/issues?q=author%3Awinnie334" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/linegel"><img src="https://avatars0.githubusercontent.com/u/1746296?v=4" width="100px;" alt=""/><br /><sub><b>Evgenii Popov</b></sub></a><br /><a href="https://github.com/linegel/forked-meme/commits?author=linegel" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DecimalTurn"><img src="https://avatars2.githubusercontent.com/u/31558169?v=4" width="100px;" alt=""/><br /><sub><b>Martin Leduc</b></sub></a><br /><a href="https://github.com/linegel/forked-meme/commits?author=DecimalTurn" title="Documentation">📖</a></td>
   </tr>
 </table>
 
