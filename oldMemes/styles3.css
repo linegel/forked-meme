@@ -37,3 +37,7 @@ main .meme {
 .changes-removed {
 	color: #c00;
 }
+
+.footer-link-wrapper {
+	margin-top: 30px;
+}
