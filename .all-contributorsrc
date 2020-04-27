@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "winnie334",
+      "name": "Winnie33",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/24432799?v=4",
+      "profile": "https://github.com/winnie334",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "linegel",
+      "name": "Evgenii Popov",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1746296?v=4",
+      "profile": "https://github.com/linegel",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "forked-meme",
+  "projectOwner": "linegel",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
