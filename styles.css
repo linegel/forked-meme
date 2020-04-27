@@ -1,5 +1,6 @@
 body {
-	background-color: #eee;
+	background-color: #3e3e3e;
+	color: #cecfcf;
 }
 
 .center {
@@ -22,10 +23,15 @@ main .meme {
 
 .contributors-list-person {
 	font-size: 24px;
+	padding-bottom: 30px;
 }
 
 .changes-added {
 	color: #0c0;
+}
+
+.changes-removed {
+	color: #c00;
 }
 
 footer {
