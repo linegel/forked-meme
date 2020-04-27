@@ -22,6 +22,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "DecimalTurn",
+      "name": "Martin Leduc",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31558169?v=4",
+      "profile": "https://github.com/DecimalTurn",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
