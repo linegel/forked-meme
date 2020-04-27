@@ -35,3 +35,17 @@ Note: before merge I will ask @all-contributors to add you to contributors list 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
  ## About repo author
  On reddit [u/linegel](https://www.reddit.com/u/linegel)
+ Also I have few places where you can find fresh memes collected by me from everywhere:
+ [Telegram](t.me/dev_meme)
+
+
+ [Twitter](https://twitter.com/devs_memes)
+
+
+ [Facebook](https://www.facebook.com/devm3m3)
+
+
+ [VK](https://vk.com/dev_meme)
+
+ 
+ (!!!Linkedin!!!)[https://www.linkedin.com/company/dev-meme]
