@@ -1,0 +1,33 @@
+body {
+	background-color: #eee;
+}
+
+.center {
+	margin: auto;
+	width: 420px;
+	height: 50%;
+}
+
+main .meme {
+	width: 420px;
+} 
+
+.contributors-list {
+	padding-top: 20px;
+}
+
+.contributors-list-text {
+	font-size: 36px;
+}
+
+.contributors-list-person {
+	font-size: 24px;
+}
+
+.changes-added {
+	color: #0c0;
+}
+
+footer {
+	display: none;
+} 
