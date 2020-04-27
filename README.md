@@ -1,6 +1,6 @@
 # ForkedMeme
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## What?
 This repo exist in order to follow meme forking trend on [reddit](https://www.reddit.com/r/ProgrammerHumor) but in a proper way
@@ -37,16 +37,13 @@ Note: before merge I will ask @all-contributors to add you to contributors list 
  ## About repo author
  On reddit [u/linegel](https://www.reddit.com/u/linegel)
  Also I have few places where you can find fresh memes collected by me from everywhere:
+ 
  [Telegram](t.me/dev_meme)
-
 
  [Twitter](https://twitter.com/devs_memes)
 
-
  [Facebook](https://www.facebook.com/devm3m3)
-
 
  [VK](https://vk.com/dev_meme)
 
- 
- (!!!Linkedin!!!)[https://www.linkedin.com/company/dev-meme]
+And even [Linkedin!!!](https://www.linkedin.com/company/dev-meme)
