@@ -13,7 +13,7 @@ Note: before merge I will ask @all-contributors to add you to contributors list 
  You one of authors who tagged via reddit name, not github one and wanna change it? Open PR with changes and drop [me](https://www.reddit.com/user/linegel) a link to PR
 
 ## Contributors
-[u/decimalturn](https://www.reddit.com/u/decimalturn), [u/GameForest](https://www.reddit.com/u/GameForest), [u/winnie31](https://www.reddit.com/u/winnie31), [u/nnod](https://www.reddit.com/u/nnod), [u/linegel](https://www.reddit.com/u/linegel)
+[u/decimalturn](https://www.reddit.com/u/decimalturn), [u/GameForest1](https://www.reddit.com/u/GameForest1), [u/winnie33](https://www.reddit.com/u/winnie33), [u/nnod](https://www.reddit.com/u/nnod), [u/linegel](https://www.reddit.com/u/linegel)
 
  ## About repo author
  On reddit [u/linegel](https://www.reddit.com/u/linegel)
