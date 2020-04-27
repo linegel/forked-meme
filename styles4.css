@@ -1,0 +1,39 @@
+body {
+	background-color: #000;
+	color: #cecfcf;
+}
+
+a {
+	color: inherit;
+}
+
+.center {
+	margin: auto;
+	width: 420px;
+	height: 50%;
+}
+
+main .meme {
+	width: 420px;
+} 
+
+.contributors-list {
+	padding-top: 20px;
+}
+
+.contributors-list-text {
+	font-size: 36px;
+}
+
+.contributors-list-person {
+	font-size: 24px;
+	padding-bottom: 30px;
+}
+
+.changes-added {
+	color: darkseagreen;
+}
+
+.changes-removed {
+	color: tomato;
+}
