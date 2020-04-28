@@ -1,6 +1,6 @@
 # ForkedMeme
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## What?
 This repo exist in order to follow meme forking trend on [reddit](https://www.reddit.com/r/ProgrammerHumor) but in a proper way
@@ -28,6 +28,7 @@ Note: before merge I will ask @all-contributors to add you to contributors list 
     <td align="center"><a href="https://github.com/winnie334"><img src="https://avatars0.githubusercontent.com/u/24432799?v=4" width="100px;" alt=""/><br /><sub><b>Winnie33</b></sub></a><br /><a href="https://github.com/linegel/forked-meme/issues?q=author%3Awinnie334" title="Bug reports">🐛</a></td>
     <td align="center"><a href="https://github.com/linegel"><img src="https://avatars0.githubusercontent.com/u/1746296?v=4" width="100px;" alt=""/><br /><sub><b>Evgenii Popov</b></sub></a><br /><a href="https://github.com/linegel/forked-meme/commits?author=linegel" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/DecimalTurn"><img src="https://avatars2.githubusercontent.com/u/31558169?v=4" width="100px;" alt=""/><br /><sub><b>Martin Leduc</b></sub></a><br /><a href="https://github.com/linegel/forked-meme/commits?author=DecimalTurn" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://mvolfik.github.io"><img src="https://avatars3.githubusercontent.com/u/31281386?v=4" width="100px;" alt=""/><br /><sub><b>Matěj Volf</b></sub></a><br /><a href="https://github.com/linegel/forked-meme/commits?author=mvolfik" title="Documentation">📖</a></td>
   </tr>
 </table>
 
