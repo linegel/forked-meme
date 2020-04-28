@@ -38,7 +38,7 @@ Note: before merge I will ask @all-contributors to add you to contributors list 
  On reddit [u/linegel](https://www.reddit.com/u/linegel)
  Also I have few places where you can find fresh memes collected by me from everywhere:
  
- [Telegram](t.me/dev_meme)
+ [Telegram](https://t.me/dev_meme)
 
  [Twitter](https://twitter.com/devs_memes)
 
