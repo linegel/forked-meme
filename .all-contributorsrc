@@ -31,6 +31,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "mvolfik",
+      "name": "Matěj Volf",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/31281386?v=4",
+      "profile": "https://mvolfik.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
